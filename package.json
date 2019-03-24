@@ -26,6 +26,9 @@
       "git add"
     ]
   },
+  "engines": {
+    "node": ">=8.0"
+  },
   "dependencies": {
   },
   "devDependencies": {
